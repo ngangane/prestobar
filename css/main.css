@@ -258,7 +258,13 @@ footer ul li a:hover{
 .align-item-center {
 	align-items: center;
 }
-
+.person img{
+	display: block;
+	transform: all 0.8s ease-in-out;
+}
+.person:hover img{
+	transform: scale(1.1);
+}
 
 
 
