@@ -168,9 +168,7 @@ header{
 	color: darkred;
 }
 #sanpham{
-	border-bottom: 1px solid #E1E1E1;
-	padding-top: 5px;
-	margin: 15px;
+	padding-bottom: 35px;
 }
 .vien-xam{
 	width: 100%;
